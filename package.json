@@ -1,0 +1,15 @@
+{
+    "name": "express-ssl",
+    "version": "0.0.1",
+    "description": "express ssl server",
+    "main": "server.js",
+    "dependencies": {
+        "express": "3.5.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Guillermo Correa",
+    "license": "MIT"
+}
